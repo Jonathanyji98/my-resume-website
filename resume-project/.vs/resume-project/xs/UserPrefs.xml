@@ -1,13 +1,30 @@
 ﻿<Properties StartupConfiguration="{5AE47AD9-EDC4-47EA-9C0F-DCBD24FF817F}|Default">
-  <MonoDevelop.Ide.ItemProperties.resume-project FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.resume-project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="resume-project/ClientApp/src/app/home/home.component.html">
+    <Files>
+      <File FileName="resume-project/ClientApp/src/styles.css" Line="11" Column="2" />
+      <File FileName="resume-project/ClientApp/src/app/home/home.component.html" Line="13" Column="5" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="resume-project" expanded="True" selected="True">
-            <Node name="resume-project" expanded="True" />
+          <Node name="resume-project" expanded="True">
+            <Node name="resume-project" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="home" expanded="True">
+                      <Node name="home.component.html" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
